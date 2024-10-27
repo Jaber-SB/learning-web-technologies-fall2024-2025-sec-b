@@ -1,0 +1,28 @@
+<hospital>
+  <patient>
+    <si._no.>23</si._no.>
+    <name>
+       <first_name>John</first_name>
+       <last_name>Carter</last_name>
+    </name>
+    <admission_date>25/12/2015</admission_date>
+  </patient>
+
+  <patient>
+    <si._no.>29</si._no.>
+    <name>
+       <first_name>Bob</first_name>
+       <last_name>Marshal</last_name>
+    </name>
+    <admission_date>13/01/1999</admission_date>
+  </patient>
+
+  <patient>
+    <si._no.>35</si._no.>
+    <name>
+       <first_name>Clark</first_name>
+       <last_name>Kent</last_name>
+    </name>
+    <admission_date>17/06/2005</admission_date>
+  </patient>
+</hospital>
